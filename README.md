@@ -1,8 +1,8 @@
 # EX-NO-9-RSA-Algorithm
 
 
-## NAME:Mohammed Faizal J
-## REG NO:212222100027
+## NAME:RAYASH R
+## REG NO:212224230226
 
 
 ## AIM:
@@ -152,3 +152,4 @@ int main() {
 
 ## Result:
  The program is executed successfully.
+
